@@ -1,6 +1,6 @@
 {
   "name": "@nefario/contextra",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "JQuery based contextual menus.",
   "main": "contextra.js",
   "scripts": {
