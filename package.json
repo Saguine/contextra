@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Saguine/contextra/issues"
   },
-  "homepage": "https://github.com/Saguine/contextra#readme"
+  "homepage": "https://github.com/Saguine/contextra#readme",
+  "dependencies": {
+    "jquery-plugin": "0.0.0-ignored"
+  }
 }
